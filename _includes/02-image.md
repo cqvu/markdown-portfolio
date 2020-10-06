@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Chau's Bitmoji](http://os-ucsd.ucsd.edu/static/media/chau.56209215.PNG)
