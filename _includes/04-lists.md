@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## My favorites
+- Food: Sushi 🍣
+- Movie: Dark Knight 🦇
+- Book: Ender's Game 👾
+- Anime: The Promised Neverland 👶
